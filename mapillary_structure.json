@@ -1,0 +1,24 @@
+{
+    "description": "Library holding press imagery for Mapillary",
+    "repo": "mapillary_press",
+    "frameworks": [],
+    "language": "na",
+    "maintainers": [
+        "angelday"
+    ],
+    "providers": [
+        {
+            "dependencies": [],
+            "description": "Provider for library holding press imagery for Mapillary",
+            "extDependencies": [],
+            "name": "mapillary_press_library_provider",
+            "services": [
+                {
+                    "description": "Library holding press imagery for Mapillary",
+                    "name": "mapillary_press_library"
+                }
+            ],
+            "type": "library"
+        }
+    ]
+}
