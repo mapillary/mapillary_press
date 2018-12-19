@@ -9,7 +9,7 @@
     "providers": [
         {
             "dependencies": [],
-            "description": "Provider for library holding press imagery for Mapillary",
+            "description": "Hosts the press office releases as binaries. The website press page links to those files.",
             "extDependencies": [],
             "name": "mapillary_press_library_provider",
             "services": [
